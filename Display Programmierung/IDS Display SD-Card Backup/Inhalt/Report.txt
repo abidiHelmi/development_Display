@@ -1,0 +1,23 @@
+Screen (Startup)
+	Script: GTTProject1\Startup\Startup.bin
+	User Notes: 
+Screen (Screen1)
+	Script: GTTProject1\Screen1\Screen1.bin
+	LED Animation (Circle_LED_1)
+		ID: 0*
+		Initial State: 0
+	Bar Graph (Bar_Graph_1)
+		ID: 0*
+		Min: 0
+		Max: 100
+		Default: 65
+	Bar Graph (Bar_Graph_2)
+		ID: 1*
+		Min: 0
+		Max: 100
+		Default: 20
+	Bar Graph (Bar_Graph_3)
+		ID: 2*
+		Min: 0
+		Max: 100
+		Default: 65
